@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>jquery.min.js</file>
+        <file>pop.jpg</file>
+        <file>favicon.ico</file>
+        <file>rotate.png</file>
+    </qresource>
+</RCC>
